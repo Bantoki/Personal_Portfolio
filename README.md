@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-**Portfolio Website**: [https://bantoki.github.io/portfolio](https://bantoki.github.io/portfolio)
+**Portfolio Website**: [https://bantoki.github.io/Personal_Portfolio/]
 
 **Fully Responsive** - Works perfectly on all devices (Desktop, Tablet, Mobile)
 
@@ -177,8 +177,7 @@ I'm **Nickson Njau**, a passionate **BSc Information Technology** student at **J
 The portfolio is automatically deployed using **GitHub Pages**:
 
 * Every push to the `main` branch triggers automatic deployment
-* Live site available at: `https://njau-nickson.github.io/portfolio`
-
+* Live site available at:'https://bantoki.github.io/Personal_Portfolio/'
 ---
 
 ## Key Features
