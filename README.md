@@ -1,9 +1,8 @@
-
 # Nickson Njau - Personal Portfolio Website
 
-**Full-Stack Developer | Systems Architect | Tech Entrepreneur**
+**BSc Information Technology Student | Full-Stack Developer**
 
-*"Engineering scalable solutions that bridge technology and human potential"*
+*"Building tomorrow's solutions with today's code, one commit at a time."*
 
 ---
 
@@ -11,21 +10,21 @@
 
 **Portfolio Website**: [https://bantoki.github.io/Personal_Portfolio/]
 
-**Fully Responsive** - Works perfectly on all devices (Desktop, Tablet, Mobile)
+**Responsive Design** - Works on desktop, tablet, and mobile devices
 
 ---
 
 ## Project Overview
 
-This is my personal portfolio website showcasing my journey as a **BSc Information Technology student** at **JKUAT** and my experience as a **Full-Stack Developer** and **Tech Entrepreneur**. The portfolio highlights my technical skills, projects, educational background, and professional interests in **agricultural technology**, **youth empowerment**, and **community building**.
+This is my personal portfolio website showcasing my journey as a **BSc Information Technology student** at **JKUAT** and my experience in **Full-Stack Development**. The portfolio highlights my technical skills, projects, educational background, and interests in technology solutions.
 
 ### Portfolio Purpose
 
-* Showcase technical expertise and programming skills
-* Highlight real-world projects with measurable impact
-* Demonstrate professional growth and entrepreneurial journey
-* Provide easy contact methods for collaboration opportunities
-* Present downloadable CV for potential employers
+* Display technical skills and programming experience
+* Showcase real projects I have worked on
+* Present educational background and learning path
+* Provide contact information for opportunities
+* Share my approach to technology and development
 
 ---
 
@@ -33,22 +32,21 @@ This is my personal portfolio website showcasing my journey as a **BSc Informati
 
 ### Frontend Technologies
 
-* **HTML5** - Semantic markup and structure
-* **CSS3** - Modern styling, animations, and responsive design
-* **JavaScript** - Interactive functionality and form handling
+* **HTML5** - Structure and semantic markup
+* **CSS3** - Styling, layout, and responsive design
+* **JavaScript** - Interactive functionality
 
 ### Design Features
 
-* **Responsive Design** - Mobile-first approach
+* **Responsive Design** - Mobile-friendly layout
 * **CSS Grid & Flexbox** - Modern layout techniques
-* **CSS Animations** - Smooth transitions and effects
-* **Custom Gradient Themes** - Blue and purple color scheme
-* **Modern Typography** - Professional font styling
+* **Clean Typography** - Professional presentation
+* **Organized Sections** - Clear information hierarchy
 
 ### Development Tools
 
 * **Git** - Version control
-* **GitHub Pages** - Hosting and deployment
+* **GitHub Pages** - Hosting
 * **VS Code** - Development environment
 
 ---
@@ -56,90 +54,114 @@ This is my personal portfolio website showcasing my journey as a **BSc Informati
 ## Project Structure
 
 ```
-portfolio/
+PERSONAL_PORTFOLIO/
 │
-├── index.html          # Main HTML file
-├── styles.css          # CSS stylesheet
-├── README.md           # Project documentation
-└── assets/            # Images and resources 
+├── assets/
+│   ├── Nickson_bg.jpg
+│   ├── Nickson_Njau_CV.docx
+│   └── Nickson_profile.jpg
+│
+├── pages/
+│   ├── about.html
+│   ├── contact.html
+│   ├── index.html
+│   ├── projects.html
+│   └── skills.html
+│
+├── styles/
+│   ├── about.css
+│   ├── contact.css
+│   ├── index.css
+│   ├── projects.css
+│   └── skills.css
+│
+└── README.md
 ```
 
-### File Descriptions
+### File Structure
 
-* **`index.html`** - Complete portfolio structure with semantic HTML5
-* **`styles.css`** - All styling including responsive design and animations
-* **`README.md`** - Comprehensive project documentation
+* **`pages/`** - HTML files for each section
+* **`styles/`** - CSS files for styling each page
+* **`assets/`** - Images and documents
+* **`README.md`** - Project documentation
 
 ---
 
-## Design Features
+## Portfolio Sections
 
-### Color Scheme
+### Navigation
 
-* **Primary Colors**: Blue (`#667eea`) and Purple (`#764ba2`)
-* **Background**: Light gradients for optimal readability
-* **Text**: Black and dark gray for maximum contrast
-* **Accents**: Blue/purple gradients for visual appeal
+Multi-page structure with dedicated sections:
 
-### Layout Sections
+1. **Home** - Introduction and overview
+2. **About** - Background and philosophy
+3. **Skills** - Technical abilities organized by confidence level
+4. **Projects** - Detailed project descriptions
+5. **Contact** - Contact form and information
 
-1. **Hero Section** - Name, title, and call-to-action buttons
-2. **About Me** - Personal background and philosophy
-3. **Programming Languages & Skills** - Technical expertise organized by categories
-4. **Educational Background** - Academic information with CV download
-5. **Featured Projects** - Key projects with impact metrics
-6. **Professional Interests** - Areas of passion and focus
-7. **Contact Form** - Interactive contact with form validation
-8. **Footer** - Social links and copyright information
+### Skills Organization
 
-### Responsive Breakpoints
+**Most Confident With**
+* Python
+* HTML/CSS
+* Git/GitHub
 
-* **Desktop**: 1200px+ (Full grid layouts)
-* **Tablet**: 768px-1199px (Adjusted grid columns)
-* **Mobile**: Below 768px (Single column layouts)
+**Currently Improving**
+* JavaScript
+* Flask
+* SQL
+
+**Exploring Next**
+* MongoDB
+* Java
+* Linux
 
 ---
 
 ## Featured Projects
 
 ### 1. Inventory Management System
+**Technologies**: Flask, MongoDB, JavaScript
+* Real-time inventory tracking and automated analytics
+* Reduced inventory errors by 85% and improved turnover by 40%
 
-**Technologies**: Python (Flask), MongoDB, Tkinter, JavaScript, HTML5/CSS3
-
-* Enterprise-grade solution with real-time analytics
-* **Impact**: 85% reduction in inventory discrepancies, 40% improved stock turnover
-
-### 2. Agriventors - AgriTech Startup
-
-**Technologies**: Blockchain (Ethereum), Smart Contracts, IoT, Python
-
-* Blockchain-powered agricultural investment platform
-* **Vision**: Serving 10,000+ farmers across East Africa by 2027
+### 2. Agriventors Platform
+**Technologies**: Django, PostgreSQL, HTML/CSS/JS
+* Digital platform connecting young agri-entrepreneurs with resources
+* Used by 200+ agripreneurs to access training and support tools
 
 ### 3. Youth Empowerment Portal
+**Technologies**: Flask, SQLite, Bootstrap, JavaScript
+* Government-backed portal for youth mentorship and employment
+* Helped 500+ youth get access to mentorship and jobs
 
-**Technologies**: Flask, MongoDB, Bootstrap, JavaScript
+### 4. AI-Powered Study Guide Generator
+**Technologies**: React, Flask, MongoDB, LLaMA
+* Personalized study assistant for PDF summarization
+* Boosted study efficiency for users by up to 60%
 
-* Community management platform for youth organizations
-* **Results**: 150% increase in participation, 70% reduced admin workload
+### 5. Mwìki Boda Boda SACCO System
+**Technologies**: Tkinter, SQLite
+* Desktop app for managing member registration and loans
+* Streamlined operations for 60+ riders
 
 ---
 
 ## About Me
 
-I'm **Nickson Njau**, a passionate **BSc Information Technology** student at **JKUAT** (Year 3, Semester 2), specializing in:
+I'm **Nickson Njau**, a **BSc Information Technology** student at **JKUAT**, focused on:
 
-* **Backend Development** - Python, Flask, Java, C++
-* **Database Systems** - MongoDB, SQL, PostgreSQL
+* **Backend Development** - Python, Flask
+* **Database Systems** - MongoDB, SQL, SQLite
 * **Frontend Technologies** - JavaScript, HTML5, CSS3
-* **Emerging Technologies** - Blockchain, IoT, Cloud Computing
+* **Learning** - Continuously improving technical skills
 
-### Core Values
+### Development Philosophy
 
-* **Ubuntu Philosophy**: *"I am because we are"*
-* **Technology for Social Good**: Creating impactful solutions
-* **Community Empowerment**: Youth development and digital literacy
-* **Sustainable Development**: Environmentally conscious technology
+* Building practical solutions for real problems
+* Learning through hands-on project development
+* Contributing to community through technology
+* Growing technical skills step by step
 
 ---
 
@@ -157,68 +179,54 @@ I'm **Nickson Njau**, a passionate **BSc Information Technology** student at **J
 ### Local Development
 
 1. **Clone the repository**
-
    ```bash
-   https://github.com/Bantoki/Personal_Portfolio.git
-   cd portfolio
+   git clone https://github.com/Bantoki/Personal_Portfolio.git
+   cd Personal_Portfolio
    ```
 
 2. **Open in browser**
-
    ```bash
-   # Simply open index.html in your preferred browser
-   open index.html
-   # or
-   start index.html
+   # Open index.html in pages folder
+   open pages/index.html
    ```
 
 ### Deployment
 
-The portfolio is automatically deployed using **GitHub Pages**:
-
-* Every push to the `main` branch triggers automatic deployment
-* Live site available at:'https://bantoki.github.io/Personal_Portfolio/'
----
-
-## Key Features
-
-### Professional Highlights
-
-* **Responsive Design** - Works on all devices
-* **Fast Loading** - Optimized performance
-* **SEO Friendly** - Semantic HTML structure
-* **Accessible** - Proper contrast and navigation
-* **Interactive Elements** - Smooth animations and hover effects
-
-### Business Impact
-
-* **Real Projects** - Actual development experience showcased
-* **Quantified Results** - Measurable impact metrics included
-* **Professional Growth** - Clear progression from student to entrepreneur
-* **Contact Integration** - Easy ways for employers to reach out
-
-### Technical Excellence
-
-* **Clean Code** - Well-structured HTML and CSS
-* **Modern CSS** - Grid, Flexbox, and animations
-* **Cross-Browser** - Compatible with all major browsers
-* **Performance** - Lightweight and fast loading
+Deployed using **GitHub Pages**:
+* Automatic deployment from `main` branch
+* Live site: https://bantoki.github.io/Personal_Portfolio/
 
 ---
 
-## Portfolio Metrics
+## Technical Details
 
-### Development Timeline
+### Design Features
 
-* **Planning**: 1 day - Content strategy and design planning
-* **Development**: 3 days - HTML/CSS implementation
-* **Testing**: 1 day - Cross-browser and device testing
-* **Deployment**: Same day - GitHub Pages setup
+* **Multi-page Structure** - Organized content across dedicated pages
+* **Responsive Layout** - Works on different screen sizes
+* **Clean Styling** - Professional appearance with CSS
+* **Project Details** - Comprehensive information about each project
 
-### Technical Specifications
+### Development Approach
 
-* **HTML5**: Semantic structure with accessibility features
-* **CSS3**: Modern styling with 500+ lines of responsive code
-* **JavaScript**: Interactive functionality for forms and navigation
-* **Performance**: 95+
+* **Semantic HTML** - Proper structure and accessibility
+* **Modular CSS** - Separate stylesheets for each page
+* **Progressive Enhancement** - Core functionality works everywhere
+* **Version Control** - Git for development tracking
 
+---
+
+## Project Status
+
+**Current Status**: Active development and maintenance
+
+**Recent Updates**:
+* Added detailed project descriptions
+* Improved responsive design
+* Updated skills organization
+* Enhanced contact section
+
+**Future Plans**:
+* Continue adding new projects
+* Improve performance and accessibility
+* Update with new skills as I learn them
